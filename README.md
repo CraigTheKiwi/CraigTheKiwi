@@ -7,8 +7,8 @@
   - <a href="https://www.instagram.com/craig_thekiwi/"> <img src="https://gatsby.coded.co.nz/wp-content/uploads/2021/07/iconfinder_5296765_camera_instagram_instagram-logo_icon_64px.png" width="18px"/> craig_thekiwi</a> 
   - <a href="https://twitter.com/craig_thekiwi"><img src="https://gatsby.coded.co.nz/wp-content/uploads/2021/07/iconfinder_5296516_tweet_twitter_twitter-logo_icon_64px.png" width="18px"/> craig_thekiwi</a>
   - <a href="https://www.linkedin.com/in/CraigTheKiwi"><img src="https://gatsby.coded.co.nz/wp-content/uploads/2021/07/iconfinder_5296501_linkedin_network_linkedin-logo_icon_64px.png" width="18px"/> CraigTheKiwi</a>
-  - <a href="mailto:craig@coded.co.nz"><img src="https://gatsby.coded.co.nz/wp-content/uploads/2021/07/iconfinder_3116889_design_email_material_communication_mail_icon_64px.png" /> craig@coded.co.nz (Work)</a>
-  -  <a href="mailto:craig@thewalkers.org.nz"><img src="https://gatsby.coded.co.nz/wp-content/uploads/2021/07/iconfinder_3116889_design_email_material_communication_mail_icon_64px.png" /> craig@thewalkers.org.nz (Personal)</a>
+  - <a href="mailto:craig@coded.co.nz"><img src="https://gatsby.coded.co.nz/wp-content/uploads/2021/07/iconfinder_3116889_design_email_material_communication_mail_icon_64px.png" width="18px" /> craig@coded.co.nz (Work)</a>
+  -  <a href="mailto:craig@thewalkers.org.nz"><img src="https://gatsby.coded.co.nz/wp-content/uploads/2021/07/iconfinder_3116889_design_email_material_communication_mail_icon_64px.png" width="18px" /> craig@thewalkers.org.nz (Personal)</a>
 
 <!---
 CraigTheKiwi/CraigTheKiwi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
