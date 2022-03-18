@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CraigTheKiwi
 - 👀 I’m interested in anything Python and JS based (php too at a pinch)
 - 🌱 I’m currently learning new React tricks
-- 💞️ I’m looking to collaborate on large Python and React projects
+- 💞️ I’m looking to collaborate on large Node and or Python projects
 - 📫 How to reach me:
   - <a href="https://www.facebook.com/CraigTheKiwi/"><img src="https://gatsby.coded.co.nz/wp-content/uploads/2021/07/iconfinder_5365678_fb_facebook_facebook-logo_icon_64px.png" width="18px"/> CraigTheKiwi</a>
   - <a href="https://www.instagram.com/craig_thekiwi/"> <img src="https://gatsby.coded.co.nz/wp-content/uploads/2021/07/iconfinder_5296765_camera_instagram_instagram-logo_icon_64px.png" width="18px"/> craig_thekiwi</a> 
